@@ -48,4 +48,4 @@ _Here is the place where I have said something general about myself._ :rofl:
 
 ### Connect with me:
 
-[Facebook](https://www.facebook.com/mkstamin/) || [Instagram](https://www.instagram.com/mkstamin/) || [Linkedin](https://www.linkedin.com/mkstamin/) || [Twitter](https://twitter.com/MksTamin/)
+[Facebook](https://www.facebook.com/mkstamin/) || [Instagram](https://www.instagram.com/mkstamin/) || [Linkedin](https://www.linkedin.com/in/mkstamin/) || [Twitter](https://twitter.com/MksTamin/)
