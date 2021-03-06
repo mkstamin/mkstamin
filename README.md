@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="Images/img.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="img/img.gif" width="400" height="280" />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mkstamin&label=Profile%20views&color=0e75b6&style=flat" alt="mkstamin" /></p>
 
