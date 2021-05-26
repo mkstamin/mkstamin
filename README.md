@@ -1,4 +1,4 @@
-### Hi There...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey ...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm Mks Tamin
 
@@ -10,14 +10,14 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mkstamin&label=Profile%20views&color=0e75b6&style=flat" alt="mkstamin" /></p>
 
-_Here is the place where I have said something general about myself._ :rofl:
+_Here is the place where I have said something about myself._ :rofl:
 
-- :beginner: Currently I am working on **Full-Stack Development**
+- :beginner: Currently I am working on **Full-Stack Development (MERN)**
 - :notebook: I am learning from [Google](https://www.google.com/) && [youtube](https://www.youtube.com/) !!
-- :computer: Most used code line `console.log();`
+- :computer: Most used code line `console.log('Hello, world');`
 - 🥅 2021 goals: Learn Node.js, Express.js, MongoDB, React.js, && Do many projects.
 - 💬 Ask me anything about 'JavaScript' / Web-App-Development'
-- 📫 Touch with me: [@MksTamin](https://twitter.com/MksTamin/) || [@email](mkstamin@myself.com) !!
+- 📫 Touch with me: [@MksTamin](https://twitter.com/MksTamin/) || [Facebook](https://www.facebook.com/mkstamin/) !!
 - ⚡ I love Travelling and Photography :camera:
 
 ---
