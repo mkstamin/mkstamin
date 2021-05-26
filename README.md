@@ -16,7 +16,7 @@ _Here is the place where I have said something about myself._ :rofl:
 - :notebook: I am learning from [Google](https://www.google.com/) && [youtube](https://www.youtube.com/) !!
 - :computer: Most used code line `console.log('Hello, world');`
 - 🥅 2021 goals: Learn Node.js, Express.js, MongoDB, React.js, && Do many projects.
-- 💬 Ask me anything about 'JavaScript' / Web-App-Development'
+- 💬 Ask me anything about 'JavaScript' / Web-Development'
 - 📫 Touch with me: [@MksTamin](https://twitter.com/MksTamin/) || [Facebook](https://www.facebook.com/mkstamin/) !!
 - ⚡ I love Travelling and Photography :camera:
 
