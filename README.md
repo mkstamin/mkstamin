@@ -17,7 +17,7 @@ _Here is the place where I have said something about myself._ :rofl:
 - :computer: Most used code line `console.log('Hello, world');`
 - 🥅 2021 goals: Learn Node.js, Express.js, MongoDB, React.js, && Do many projects.
 - 💬 Ask me anything about 'JavaScript' / Web-Development'
-- 📫 Touch with me: [@MksTamin](https://twitter.com/MksTamin/) || [Facebook](https://www.facebook.com/mkstamin/) !!
+- 📫 Touch with me: [Mks Tamin](https://twitter.com/MksTamin/) || [Mks Tamin](https://www.facebook.com/mkstamin/) !!
 - ⚡ I love Travelling and Photography :camera:
 
 ---
