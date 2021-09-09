@@ -2,7 +2,7 @@
 
 ## I'm Mks Tamin
 
-###### web-developer && JavaScript worshiper
+###### web-developer && javaScript enthusiast
 
 ---
 
