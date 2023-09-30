@@ -12,7 +12,7 @@
 
 _Here is the place where I have said something about myself._ :rofl:
 
-- :beginner: Currently I am working on **Front-end web dev @bdtask.**
+- :beginner: Currently I am working on **Front-end web dev @bdtask.**\
   **(React | Next | TypeScript | Redux)**
 - :notebook: I am learning from [Google](https://www.google.com/) && [youtube](https://www.youtube.com/) !!
 - :computer: Most used code line `console.log();`
