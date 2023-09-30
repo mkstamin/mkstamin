@@ -12,11 +12,11 @@
 
 _Here is the place where I have said something about myself._ :rofl:
 
-- :beginner: Currently I am working on **Front-end web dev @bdtask. React | Next | TypeScript | Redux**
+- :beginner: Currently I am working on *Front-end web dev @bdtask.*
+- *React | Next | TypeScript | Redux*
 - :notebook: I am learning from [Google](https://www.google.com/) && [youtube](https://www.youtube.com/) !!
-- :computer: Most used code line `console.log('Hello, world');`
-- 🥅 2024 goals: Learn Node.js, Express.js, MongoDB, React.js, && Do some projects.
-- 💬 Ask me anything about 'JavaScript' / web development
+- :computer: Most used code line `console.log();`
+- 🥅 2024 goal: Learn Node.js, Express.js, MongoDB, React.js, && Do some projects.
 - 📫 Touch with me: [Mks Tamin](https://twitter.com/MksTamin/) || [Mks Tamin](https://www.facebook.com/mkstamin/) !!
 - ⚡ I love Travelling and Photography :camera:
 
