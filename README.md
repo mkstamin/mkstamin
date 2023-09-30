@@ -16,7 +16,7 @@ _Here is the place where I have said something about myself._ :rofl:
   **(React | Next | TypeScript | Redux)**
 - :notebook: I am learning from [Google](https://www.google.com/) && [youtube](https://www.youtube.com/) !!
 - :computer: Most used code line `console.log();`
-- 🥅 2024 goal: Learn Node.js, Express.js, MongoDB, && Do some projects.
+- 🥅 Learning: React Native, GraphQL...
 - 📫 Touch with me: [Mks Tamin](https://twitter.com/MksTamin/) || [Mks Tamin](https://www.facebook.com/mkstamin/) !!
 - ⚡ I love Travelling and Photography :camera:
 
